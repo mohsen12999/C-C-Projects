@@ -7,6 +7,10 @@ little student projects in c/c++ language. with help from [Geeks for Geeks](http
 find array average with binary split.
 [Average with binary](./avg-with-binary.cpp)
 
+## Sum of Larg Numbers
+
+impalntation Sum of very big number with character array that can not handle with int. [sum of larg numbers](./sumoflargenumbers.cpp)
+
 ## 10 Max & Min
 
 find 10 Max and 10 Min in Array with cpp.
@@ -28,9 +32,17 @@ implantation Linklist with array and class. [Linklist](./linklist.cpp)
 
 implantation Circular List with array and class. [Circular List](./circularlist.cpp)
 
+## Quick sort
+
+do Quick sort on Array. [Quick sort](./mergsort.cpp)
+
+## Merg sort
+
+do Merg sort on Array. [Merg sort](./quicksort.cpp)
+
 ## Quick sort & Merg sort
 
-do Quick sort & Merg sort on Array. [Quick sort & Merg sort](./quickSort-mergsort.cpp)
+do Quick sort & Merg sort on Array. [Quick sort & Merg sort](./quicksort-mergsort.cpp)
 
 ## linklist or stack
 
